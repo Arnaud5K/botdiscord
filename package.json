@@ -5,7 +5,4 @@
   "main": "index.js",
   "author": "Arnaud5K",
   "license": "ISC",
-  "dependencies": {
-    "discord.js": "^11.2.1",
-  }
 }
